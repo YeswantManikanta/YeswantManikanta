@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YeswantManikanta
 - 👀 I’m interested in Web Devlopment and Automation
-- 🌱 I’m currently learning .Net
+- 🌱 
 - 💞️ I’m looking to collaborate on my skills
 
 
